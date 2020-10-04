@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EMSLite</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>

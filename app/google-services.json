@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "539833838003",
+    "firebase_url": "https://emslite-3fd4e.firebaseio.com",
+    "project_id": "emslite-3fd4e",
+    "storage_bucket": "emslite-3fd4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539833838003:android:146c289fcf1fc5897b03c6",
+        "android_client_info": {
+          "package_name": "com.example.emslite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539833838003-3cdqfu3qlvh0b5ui4v5d6eogi9ntvic4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL6Q4MccOiC5K52uG8Ih9R6uDW0pfQ8Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539833838003-3cdqfu3qlvh0b5ui4v5d6eogi9ntvic4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
